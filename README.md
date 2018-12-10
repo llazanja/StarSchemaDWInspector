@@ -1,6 +1,6 @@
 # StarSchemaDWInspector
 
-SETUP
+# SETUP INSTRUCTIONS
 
 # Clone the repository
 ```
