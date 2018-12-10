@@ -1,7 +1,5 @@
 # StarSchemaDWInspector
 
-### Setup instructions
-
 ### Clone the repository
     ```
     git clone git@github.com:llazanja/StarSchemaDWInspector.git
@@ -23,12 +21,12 @@
     Edit it and add following properties:
     ```
 
-## Run server
+### Run server
     ```
     npm run sstart
     ```
 
-## Run client
+### Run client
     ```
     npm run cstart
     ```
