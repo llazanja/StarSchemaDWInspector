@@ -19,6 +19,11 @@ npm install
 ```
 touch server/.env
 Edit it and add following properties:
+    PORT=<port>
+    MSSQL_USER=<username>
+    MSSQL_PASSWORD=<password>
+    MSSQL_HOST=<host_ip>
+    MSSQL_DATABASE=<database>
 ```
 
 ### Run server
