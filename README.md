@@ -1,7 +1,5 @@
 # StarSchemaDWInspector
 
-# SETUP INSTRUCTIONS
-
 # Clone the repository
 ```
     git clone git@github.com:llazanja/StarSchemaDWInspector.git
