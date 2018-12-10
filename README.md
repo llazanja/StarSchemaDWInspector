@@ -1,35 +1,34 @@
 # StarSchemaDWInspector
 
-## SETUP INSTRUCTIONS
+### Setup instructions
 
 ### Clone the repository
     ```
-        git clone git@github.com:llazanja/StarSchemaDWInspector.git
+    git clone git@github.com:llazanja/StarSchemaDWInspector.git
     ```
 
 ### Position yourself inside the project root directory
     ```
-        cd StarSchemaDWInspector/
+    cd StarSchemaDWInspector/
     ```
 
 ### Install dependencies
     ```
-        npm install
+    npm install
     ```
 
 ### Create file with environment variables
     ```
-        touch server/.env
-        Edit it and add following properties:
-
+    touch server/.env
+    Edit it and add following properties:
     ```
 
-### Run server
+## Run server
     ```
-        npm run sstart
+    npm run sstart
     ```
 
-### Run client
+## Run client
     ```
-        npm run cstart
+    npm run cstart
     ```
